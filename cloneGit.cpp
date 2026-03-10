@@ -13,7 +13,8 @@ int main() {
     cout << "\033[1;32m*   \033[1;36mpara o meu repositório local!                 \033[1;32m*\033[0m\n";
     cout << "\033[1;32m*                                                 *\033[0m\n";
     cout << "\033[1;34m***************************************************\033[0m\n";
-
+    string nome;
+    nome = "layon";
     return 0;
 }
 //EU SOU MUITO BOM EM C++!
